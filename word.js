@@ -13,8 +13,7 @@ for (var i = 0; i < str.length; i++) {
 }
 
 var swap = function(event) {
-    for (var i = 0; i < this.word.length; i++) {
-        
+    for (var i = 0; i < this.word.length; i++) {    
     }
 };
 
